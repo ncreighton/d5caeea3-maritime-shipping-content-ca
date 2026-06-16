@@ -1,2 +1,28 @@
-# d5caeea3-maritime-shipping-content-ca
-Stop drowning in scattered spreadsheets and missed deadlines for your maritime shipping content. This Notion template is your first mate for consistent, organized publishing.  This template eliminates the chaos of content planning by providing a dedicated system tailored to the maritime shipping industry. It combines a content calendar, publishing
+# Maritime & Shipping Content Calendar and Publishing Planner Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe00jaDdaQAg886fyd0k0o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe00jaDdaQAg886fyd0k0o)
+
